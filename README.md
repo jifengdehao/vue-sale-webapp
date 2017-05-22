@@ -1,4 +1,4 @@
-# sales-vue
+# sales-vue  vue2.0 vuex 组件开发,组件通信,一个pc版的售卖平台等等
 
 > A Vue.js project
 
